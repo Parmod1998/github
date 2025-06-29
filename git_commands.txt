@@ -1,0 +1,8 @@
+git init
+git add
+clear
+git status
+ls
+git commit -m :add testing files"
+rm
+git restore
